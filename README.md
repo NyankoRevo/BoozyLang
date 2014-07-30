@@ -8,7 +8,7 @@ Bozzylang also helps you writtring C extsions for Ruby/Python in a way that more
 There are two style of `hello world` hell.
 
     #= include <stdio.h>
-    def int main(void)
+    def int main void
       printf "Hello, world\n"
       return 0;
     end
