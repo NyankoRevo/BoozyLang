@@ -13,6 +13,7 @@ There are two style of `hello world` hell.
       return 0;
     end
 
+as well as:
 
     #= include <stdio.h>
     int main(void)->
